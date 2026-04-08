@@ -1,7 +1,8 @@
 # T2-CSS-WEEK5 F1D02410103
 Tugas 2 -Pemrograman Web 
+
 SS WEB: 
-![alt text](image.png)
+![alt text](<SS Hasil Web/ss1.png>)
 Secara garis besar, portofolio ini dibangun dengan pendekatan Hybrid Development: menggunakan Bootstrap 5 untuk efisiensi struktur dan Custom CSS untuk estetika serta interaksi mikro.
 
 1. Struktur Layout (The Framework)
